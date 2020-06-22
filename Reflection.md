@@ -23,3 +23,12 @@ Similiar to facebook or goggle drive where you can upload files
 
 # About my learning 
 I found myself searching on google whenever I was confussed 
+
+# What is master?
+Master is the main branch where all production code goes too once it's approved 
+
+# Why create a brunch?
+So muiltple people can work on a project together without it going to production and also so it can be reviewed befoe it goes to master 
+
+# Describing stage and commit 
+Stage is a file that is ready to be uploaded to the cloud and commit is a file that you've saving to your local drive 
